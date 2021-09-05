@@ -10,7 +10,7 @@
             <!-- Right aligned nav items -->
             <b-navbar-nav class="ml-auto">
                 <b-nav-item><nuxt-link to="/">Tous les articles</nuxt-link></b-nav-item>
-                <b-nav-item><nuxt-link to="/scooting">Scooting</nuxt-link></b-nav-item>
+                <b-nav-item><nuxt-link to="/scouting">Scouting</nuxt-link></b-nav-item>
                 <b-nav-item><nuxt-link to="/sportbets">Paris sportifs</nuxt-link></b-nav-item>
                 <b-nav-item><nuxt-link to="/esport">E-sport</nuxt-link></b-nav-item>
                 <b-nav-item><Button name="Événement" link="/events" /></b-nav-item>

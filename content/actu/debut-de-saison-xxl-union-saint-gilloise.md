@@ -4,7 +4,7 @@ slug: debut-de-saison-xxl-union-saint-gilloise
 date: 29/08/21
 img: debut-de-saison-xxl-union-saint-gilloise.jpg
 category: Articles
-tag: Seria
+tag: Jupiler Pro League
 auteur: Samuel Troccaz
 ---
 

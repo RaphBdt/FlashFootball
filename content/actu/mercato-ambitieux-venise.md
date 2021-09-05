@@ -4,7 +4,7 @@ slug: mercato-ambitieux-venise
 date: 29/08/21
 img: mercato-ambitieux-venise.jpg
 category: Articles
-tag: Seria
+tag: Serie a
 auteur: Samuel Troccaz
 ---
 

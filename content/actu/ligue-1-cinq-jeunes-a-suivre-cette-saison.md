@@ -3,7 +3,7 @@ title: Ligue 1 - 5 jeunes à suivre cette saison
 slug: ligue-1-cinq-jeunes-a-suivre-cette-saison
 date: 29/08/21
 img: ligue1-cinq-jeunes-a-suivre.jpg
-category: Scooting
+category: Scouting
 tag: Ligue 1
 auteur: Samuel Troccaz
 ---
