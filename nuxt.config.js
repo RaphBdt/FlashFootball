@@ -30,7 +30,9 @@ export default {
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: [],
+  css: [
+    '@/assets/css/transition.css'
+  ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [],
@@ -75,6 +77,7 @@ export default {
     workbox: {
 
     },
+  },
 
     // Content module configuration: https://go.nuxtjs.dev/config-content
     content: {},
@@ -85,5 +88,12 @@ export default {
     generate: {
       fallback: true
     },
-  }
+    layoutTransition: {
+      name: 'layout-transition',
+      mode: 'out-in'
+    },
+    pageTransition: {
+      name: 'page-transition',
+      mode: 'out-in',
+    },
 }
