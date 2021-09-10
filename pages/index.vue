@@ -4,7 +4,7 @@
       <!-- Premier article -->
       <b-col lg="6">
         <div>
-          <nuxt-link class="first-article" :to="{ name: 'actu-slug', params: { slug: articles[0].slug } }">
+          <nuxt-link class="first-article" :to="`actu/${articles[0].slug}`">
             <b-row class="title-and-date">
               <b-col lg="9">
                 <h2>{{ articles[0].title }}</h2>
@@ -29,8 +29,8 @@
       <!-- Fin premier article -->
       <!-- Du 2 au 4ème article -->
       <b-col lg="6" class="content-recent-articles">
-        <div class="recent-articles" v-for="i in (1, 2)"> <!-- À modifier quand on aura plus d'articles -->
-          <nuxt-link class="d-flex" :to="{ name: 'actu-slug', params: { slug: articles[i].slug } }">
+        <div class="recent-articles" v-for="i in (1, 2)" :key="i"> <!-- À modifier quand on aura plus d'articles -->
+          <nuxt-link class="d-flex" :to="`actu/${articles[i].slug}`">
             <img class="d-block" :src="require(`~/assets/images/articles/${articles[i].img}`)" alt="" />
             <div class="text">
               <h3>{{ articles[i].title }}</h3>
