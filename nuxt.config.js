@@ -43,10 +43,28 @@ export default {
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
+    meta: {
+      theme_color: '#212529',
+      name:'FlashFootball',
+      author: 'FlashFootball',
+      description: 'AJOUTER UNE DESCRIPTION',
+      lang: 'fr',
+
+    },
     manifest: {
-      lang: 'en'
-    }
-  },
+      name: 'FlashFootball',
+      short_name: 'FlashFootball',
+      description: 'AJOUTER UNE DESCRIPTION',
+      lang: 'fr',
+      theme_color: "#212529",
+      background_color: "#212529",
+      display: "standalone",
+      orientation: "portrait",
+      start_url: "/?utm_source=pwa"
+    },
+    workbox: {
+
+    },
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},

@@ -142,5 +142,6 @@ docs/_book
 # TODO: where does this rule come from?
 test/
 .DS_Store
+sw.js
 
 # End of https://www.toptal.com/developers/gitignore/api/nuxt,node,vue
