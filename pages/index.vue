@@ -29,7 +29,7 @@
       <!-- Fin premier article -->
       <!-- Du 2 au 4ème article -->
       <b-col lg="6" class="content-recent-articles">
-        <div class="recent-articles" v-for="i in (1, 2)"> <!-- À modifier quand on aura plus d'articles -->
+        <div class="recent-articles" v-for="i in (1, 3)"> <!-- À modifier quand on aura plus d'articles -->
           <nuxt-link class="d-flex" :to="{ name: 'actu-slug', params: { slug: articles[i].slug } }">
             <img class="d-block" :src="require(`~/assets/images/articles/${articles[i].img}`)" alt="" />
             <div class="text">
@@ -52,7 +52,7 @@ export default {
   async asyncData({ $content, params }) {
     const articles = await $content('actu', params.slug)
       .only(['title', 'img', 'slug', 'tag', 'date'])
-      .sortBy('createdAt', 'asc')
+      .sortBy('createdAt', 'desc')
       .limit(12)
       .fetch();
 

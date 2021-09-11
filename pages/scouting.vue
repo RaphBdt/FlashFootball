@@ -26,7 +26,7 @@ export default {
     const articles = await $content('actu', params.slug)
       .only(['title', 'img', 'slug', 'tag', 'date', 'category'])
       .where({ category: 'Scouting' })
-      .sortBy('createdAt', 'asc')
+      .sortBy('createdAt', 'desc')
       .limit(8)
       .fetch();
 
