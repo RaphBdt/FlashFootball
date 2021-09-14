@@ -3,7 +3,7 @@ title: Début de saison XXL pour l’Union Saint-Gilloise
 slug: debut-de-saison-xxl-union-saint-gilloise
 date: 29/08/21
 img: debut-de-saison-xxl-union-saint-gilloise.jpg
-category: Articles
+category: articles
 tag: Jupiler Pro League
 auteur: Samuel Troccaz
 ---

@@ -3,7 +3,7 @@ title: Mercato ambitieux pour le FC Venise
 slug: mercato-ambitieux-venise
 date: 29/08/21
 img: mercato-ambitieux-venise.jpg
-category: Articles
+category: articles
 tag: Serie a
 auteur: Samuel Troccaz
 ---

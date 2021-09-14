@@ -25,8 +25,8 @@ export default {
   async asyncData({ $content, params }) {
     const articles = await $content('actu', params.slug)
       .only(['title', 'img', 'slug', 'tag', 'date', 'category'])
-      .where({ category: 'Scouting' })
-      .sortBy('createdAt', 'desc')
+      .where({ category: 'scouting' })
+      .sortBy('createdAt', 'asc')
       .limit(8)
       .fetch();
 
