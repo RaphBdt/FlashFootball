@@ -43,5 +43,3 @@ fields:
   config:
     required: true
   label: auteur
-pages:
-- content/actu/andreas-schjelderup-le-joyau-scandinave.md

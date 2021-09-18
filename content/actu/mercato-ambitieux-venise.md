@@ -2,7 +2,7 @@
 title: Mercato ambitieux pour le FC Venise
 id: "3"
 date: 29/08/21
-img: mercato-ambitieux-venise.jpg
+img: https://i.eurosport.com/2021/05/27/3140989-64375508-2560-1440.jpg
 category: Articles
 tag: Serie a
 auteur: Samuel Troccaz
