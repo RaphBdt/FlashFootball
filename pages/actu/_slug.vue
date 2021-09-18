@@ -1,7 +1,7 @@
 <template>
     <b-container class="first-content">
         <article>
-            <img class="d-block w-100 mb-4" :src="require(`~/assets/images/articles/${article.img}`)" alt="" />
+            <img class="d-block w-100 mb-4" :src="article.img" alt="" />
             <h1 class="h2 text-center">{{ article.title }}</h1>
             <p class="text-center mb-5">Le {{ article.date }} par <span>{{ article.auteur }}</span></p>
             <nuxt-content :document="article" />
