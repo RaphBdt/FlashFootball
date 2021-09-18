@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: Début de saison XXL pour l’Union Saint-Gilloise
 id: 5
 date: 29/08/21
@@ -6,6 +7,16 @@ img:
 category: Articles
 tag: Jupiler Pro League
 auteur: Samuel Troccaz
+=======
+id: 5
+title: Andreas Schjelderup le joyau scandinave
+date: 17/09/2021
+img:
+category: Scooting
+tag: Superligaen
+auteur: Samuel Troccaz
+
+>>>>>>> c211766bf1887eb3ee663d7dc22379c1bbe545f4
 ---
 **A 17 ans, Andreas Schjelderup pourrait être l’un des plus grands talents de sa génération. Le milieu du Fc Nordsjaelland enflamme déjà les terrains de première division danoise avec 3 buts sur les 7 premiers matchs.**
 
