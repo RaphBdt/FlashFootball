@@ -2,7 +2,7 @@
 id: 5
 title: Andreas Schjelderup le joyau scandinave
 date: 17/09/2021
-img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAxf2vxC5rTUCAZiv3O8Ctt0jMT5U7R_6H9w&usqp=CAU
+img:
 category: Scooting
 tag: Superligaen
 auteur: Samuel Troccaz
