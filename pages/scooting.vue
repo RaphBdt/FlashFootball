@@ -5,7 +5,7 @@
       <b-col lg="3" v-for="(article, idx) in articles" :key="idx">
         <div class="article">
           <nuxt-link :to="{ name:  'actu-slug', params: { slug: article.slug }}">
-            <img class="d-block w-100" :src="require(`~/assets/images/articles/${article.img}`)" alt="" />
+            <img class="d-block w-100" :src="article.img" alt="" />
             <div class="text">
               <h3>{{ article.title }}</h3>
               <div class="category-and-date d-flex justify-content-between">

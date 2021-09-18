@@ -15,7 +15,7 @@
             </b-row>
             <b-row>
               <b-col>
-                <img class="d-block w-100" :src="require(`~/assets/images/articles/${articles[0].img}`)" alt="" />
+                <img class="d-block w-100" :src="articles[0].img" alt="" />
               </b-col>
             </b-row>
             <b-row>
@@ -31,7 +31,7 @@
       <b-col lg="6" class="content-recent-articles">
         <div class="recent-articles" v-for="i in (1, 3)"> <!-- À modifier quand on aura plus d'articles -->
           <nuxt-link class="d-flex" :to="{ name: 'actu-slug', params: { slug: articles[i].slug } }">
-            <img class="d-block" :src="require(`~/assets/images/articles/${articles[i].img}`)" alt="" />
+            <img class="d-block" :src="articles[i].img" alt="" />
             <div class="text">
               <h3>{{ articles[i].title }}</h3>
               <div class="category-and-date d-flex justify-content-between">
