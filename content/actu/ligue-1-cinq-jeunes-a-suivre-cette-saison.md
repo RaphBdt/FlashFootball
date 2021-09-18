@@ -8,7 +8,7 @@ tag: Ligue 1
 auteur: Samuel Troccaz
 
 ---
-Alors que la saison 2021-2022 a repris depuis début Août, l’équipe de Flash Football vous propose une liste de 5 jeunes joueurs à suivre tout au long de l’année.
+**Alors que la saison 2021-2022 a repris depuis début Août, l’équipe de Flash Football vous propose une liste de 5 jeunes joueurs à suivre tout au long de l’année.**
 
 ## 1 - Mohamed Ali-Cho (Angers SCO)
 
@@ -30,4 +30,4 @@ Lens a très vite trouvé le remplaçant de Loïc Badé. Christopher Wooh est ar
 
 Eduardo Camavinga sur le départ ? Aucun problème pour Rennes qui voit Ugochukwu comme un futur très haut potentiel. Il est capable de tout faire. A seulement 17 ans, ce « profil Desailly » peut jouer en 8 comme en défense centrale. Il faut dire que le franco-nigérian a de quoi impressionner avec 83 kg pour 1m88. Il est formé à Rennes depuis l’âge de ses 8 ans et pourrait prendre une place importante dans l’effectif de Gourvenec cette saison. Il a déjà joué été titulaire cette saison contre Brest et Lens où il a été plutôt correct.
 
-(Image : Parisfans.fr) 
+(Image : Parisfans.fr)
