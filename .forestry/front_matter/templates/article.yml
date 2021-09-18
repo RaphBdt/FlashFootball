@@ -12,14 +12,16 @@ fields:
   label: id
   config:
     required: true
+- name: img
+  type: text
+  config:
+    required: true
+  label: img
 - type: datetime
   name: date
   label: date
   config:
     required: true
-- type: file
-  name: img
-  label: img
 - type: text
   name: category
   label: category
