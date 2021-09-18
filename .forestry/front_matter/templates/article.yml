@@ -5,12 +5,18 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: number
   name: id
   label: id
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
+  config:
+    required: true
 - type: file
   name: img
   label: img
@@ -23,3 +29,5 @@ fields:
 - type: text
   name: auteur
   label: auteur
+  config:
+    required: true
