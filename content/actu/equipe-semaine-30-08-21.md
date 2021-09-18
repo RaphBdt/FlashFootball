@@ -2,7 +2,9 @@
 title: Le XI des jeunes de la semaine
 id: "4"
 date: 30/08/21
-img: equipe-semaine-30-08-21.jpg
+img: <iframe width="100%" height="315" src="https://www.youtube.com/embed/S447QUtkAu0"
+  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 category: Scooting
 tag: Monde
 auteur: Samuel Troccaz
