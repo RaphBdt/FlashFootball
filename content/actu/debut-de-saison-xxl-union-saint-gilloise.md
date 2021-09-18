@@ -1,6 +1,6 @@
 ---
 title: Début de saison XXL pour l’Union Saint-Gilloise
-slug: debut-de-saison-xxl-union-saint-gilloise
+id: 2
 date: 29/08/21
 img: debut-de-saison-xxl-union-saint-gilloise.jpg
 category: Articles

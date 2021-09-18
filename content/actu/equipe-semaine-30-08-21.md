@@ -1,9 +1,9 @@
 ---
 title: Le XI des jeunes de la semaine
-slug: equipe-semaine-30-08-21
+id: 4
 date: 30/08/21
 img: equipe-semaine-30-08-21.jpg
-category: Scouting
+category: Scooting
 tag: Monde
 auteur: Samuel Troccaz
 ---
@@ -16,7 +16,7 @@ FlashFootball vous présente le XI des meilleurs U23 de la semaine. Argentine, D
 
 Le gardien russe de 22 ans a été stratosphérique contre le Rubin Kazan. Il a laissé ses cages inviolées pour une victoire 2-0. Dès le début de match, il a mis à mal les attaquants adverses en remportant un face à face contre Bakaev. Savonov a également sauvé une frappe surpuissante d’Haksabanovic à 5 minutes du terme. Il a prouvé une fois de plus qu’il mérite ses 3 sélections en équipe nationale. Sa défense à tout de même été assez perméable en laissant Kazan frapper au cadre à 7 reprises. A noter la grosse performance de Remy Cabella dans cette rencontre. L’ancien marseillais a été à l’origine des deux buts verts. 
 
-<iframe width="560" height="400" src="https://www.youtube.com/embed/-7TWEpKCbBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/-7TWEpKCbBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

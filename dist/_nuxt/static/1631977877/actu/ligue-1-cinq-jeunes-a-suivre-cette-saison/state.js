@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1631977877",layout:"default",error:a,serverRendered:true,routePath:"\u002Factu\u002Fligue-1-cinq-jeunes-a-suivre-cette-saison",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"cddbeaa9"}}}}(null));

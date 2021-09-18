@@ -1,6 +1,6 @@
 ---
 title: Mercato ambitieux pour le FC Venise
-slug: mercato-ambitieux-venise
+id: 3
 date: 29/08/21
 img: mercato-ambitieux-venise.jpg
 category: Articles
