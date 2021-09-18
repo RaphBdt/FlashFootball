@@ -8,7 +8,7 @@ tag: Serie a
 auteur: Samuel Troccaz
 
 ---
-La montée du FC Venise en Série A a mis les dirigeants du club à rude épreuve. Cet été, ils se sont renforcés à tous les postes pour préparer la saison. L’effectif de Paolo Zanetti est, sur le papier, très prometteur.
+**La montée du FC Venise en Série A a mis les dirigeants du club à rude épreuve. Cet été, ils se sont renforcés à tous les postes pour préparer la saison. L’effectif de Paolo Zanetti est, sur le papier, très prometteur.**
 
 Promus en compagnie de Salernita et d’Empoli, le FC Venise va devoir s’employer pour évoluer dans la rugueuse Série A italienne. 9 nouveaux joueurs vont porter le magnifique maillot noir et or la saison prochaine. Les investisseurs américains ont mis les moyens pour s’attirer de jeunes joueurs talentueux qui pourraient se revendre à prix d’or.
 
