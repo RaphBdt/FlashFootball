@@ -15,6 +15,15 @@ export default {
         const article = await $content('actu', params.slug).fetch();
 
         return { article }
+    },
+    head() {
+        return {
+            title: this.article.title,
+            meta: [
+                { hid: 'twitter:image', name: 'twitter:image', content: this.article.img },
+                { hid: 'og:image', property: 'og:image', content: this.article.img }
+            ]
+        }
     }
 }
 </script>

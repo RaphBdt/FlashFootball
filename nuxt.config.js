@@ -4,11 +4,11 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'FlashFootball | Scouting, actu, e-sport, votre nouveau média 100% foot',
+    title: 'FlashFootball | Scouting, actu & e-sport',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: 'Des articles écrits avec passion et réservés aux vrais passionnés de football. Contenu qualitatif, gratuit et accessible partout !' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
