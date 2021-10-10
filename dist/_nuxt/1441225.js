@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{329:function(n,e,t){"use strict";t.r(e);var r={},l=t(44),component=Object(l.a)(r,(function(){var n=this,e=n.$createElement;return(n._self._c||e)("h1",[n._v("Paris sportifs")])}),[],!1,null,null,null);e.default=component.exports}}]);

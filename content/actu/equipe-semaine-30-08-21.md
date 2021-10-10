@@ -1,6 +1,6 @@
 ---
 title: Le XI des jeunes de la semaine
-id: "4"
+id: 4
 date: 30/08/21
 img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyC62il56zuyd1GQwQEWvYxr0i8g_VQojnRQ&usqp=CAU
 category: Scooting
