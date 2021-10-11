@@ -20,12 +20,11 @@ export default {
         return {
             title: this.article.title,
             meta: [
-                { hid: 'twitter:card', name: 'twitter:card', content: 'summary_large_image' },
+                { hid: 'og:image', name: 'og:image', content: this.article.img },
+                { hid: 'og:title', name: 'og:title', content: this.article.title },
+                { hid: 'twitter:card', name: 'twitter:card', content: 'summary' },
                 { hid: 'twitter:site', name: 'twitter:site', content: '@FlashFootballFR' },
-                { hid: 'twitter:title', name: 'twitter:title', content: this.article.title },
-                { hid: 'twitter:image:src', name: 'twitter:image:src', content: this.article.img },
-                { hid: 'og:image', property: 'og:image', content: this.article.img },
-                { hid: 'og:title', property: 'og:title', content: this.article.title }
+                { hid: 'twitter:creator', name: 'twitter:creator', content: '@FlashFootballFR' }
             ]
         }
     }
