@@ -20,8 +20,10 @@ export default {
         return {
             title: this.article.title,
             meta: [
-                { hid: 'twitter:image', name: 'twitter:image', content: this.article.img },
-                { hid: 'og:image', property: 'og:image', content: this.article.img }
+                { hid: 'twitter:image:src', name: 'twitter:image:src', content: this.article.img },
+                { hid: 'twitter:title', name: 'twitter:title', content: this.article.title },
+                { hid: 'og:image', property: 'og:image', content: this.article.img },
+                { hid: 'og:title', property: 'og:title', content: this.article.title }
             ]
         }
     }

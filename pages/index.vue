@@ -30,17 +30,19 @@
         <!-- Fin premier article -->
         <!-- Du 2 au 4ème article -->
         <b-col lg="6" class="content-recent-articles">
-          <div class="recent-articles" v-for="(i, idx) in (1, 3)" :key="idx"> <!-- À modifier quand on aura plus d'articles -->
-            <nuxt-link class="d-flex" :to="{ name: 'actu-slug', params: { slug: articles[i].slug } }">
-              <img class="d-block" :src="articles[i].img" alt="" />
-              <div class="text">
-                <h3>{{ articles[i].title }}</h3>
-                <div class="category-and-date d-flex justify-content-between">
-                  <p>{{ articles[i].date }}</p>
-                  <p>{{ articles[i].tag }}</p>
+          <div v-for="(article, idx) in articles" :key="idx">
+            <div v-if="idx > 0 && idx < 4" class="recent-articles" > <!-- À modifier quand on aura plus d'articles -->
+              <nuxt-link  class="d-flex" :to="{ name: 'actu-slug', params: { slug: article.slug } }">
+                <img class="d-block" :src="article.img" alt="" />
+                <div class="text">
+                  <h3>{{ article.title }}</h3>
+                  <div class="category-and-date d-flex justify-content-between">
+                    <p>{{ article.date }}</p>
+                    <p>{{ article.tag }}</p>
+                  </div>
                 </div>
-              </div>
-            </nuxt-link>
+              </nuxt-link>
+            </div>
           </div>
         </b-col>
         <!-- Fin du 2 au 4ème article -->
@@ -49,18 +51,20 @@
     <b-container class="mt-5 home-second-section">
       <h2>Les derniers articles</h2>
       <b-row class="last-articles">
-        <b-col lg="3">
-          <div class="article">
-            <nuxt-link :to="{ name:  'actu-slug', params: { slug: articles[4].slug }}">
-              <img class="d-block w-100" :src="articles[4].img" alt="" />
-              <div class="text">
-                <h3>{{ articles[4].title }}</h3>
-                <div class="category-and-date d-flex justify-content-between">
-                  <p>{{ articles[4].date }}</p>
-                  <p>{{ articles[4].tag }}</p>
+        <b-col lg="3" v-for="(article, idx) in articles" :key="idx">
+          <div v-if="idx > 3 && idx < 12">
+            <div class="article">
+              <nuxt-link :to="{ name:  'actu-slug', params: { slug: article.slug }}">
+                <img class="d-block w-100" :src="article.img" alt="" />
+                <div class="text">
+                  <h3>{{ article.title }}</h3>
+                  <div class="category-and-date d-flex justify-content-between">
+                    <p>{{ article.date }}</p>
+                    <p>{{ article.tag }}</p>
+                  </div>
                 </div>
-              </div>
-            </nuxt-link>
+              </nuxt-link>
+            </div>
           </div>
         </b-col>
       </b-row>
