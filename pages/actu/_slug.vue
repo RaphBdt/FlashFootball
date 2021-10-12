@@ -20,11 +20,32 @@ export default {
         return {
             title: this.article.title,
             meta: [
-                { hid: 'og:image', name: 'og:image', content: this.article.img },
-                { hid: 'og:title', name: 'og:title', content: this.article.title },
-                { hid: 'twitter:card', name: 'twitter:card', content: 'summary' },
-                { hid: 'twitter:site', name: 'twitter:site', content: '@FlashFootballFR' },
-                { hid: 'twitter:creator', name: 'twitter:creator', content: '@FlashFootballFR' }
+                { property: "og:site_name", content: "FlashFootball" },
+                { hid: "og:type", property: "og:type", content: "website" },
+                {
+                    hid: "og:title",
+                    property: "og:title",
+                    content: this.article.title,
+                },
+                {
+                    hid: "og:image",
+                    property: "og:image",
+                    content: this.article.img,
+                },
+                { property: "og:image:width", content: "740" },
+                { property: "og:image:height", content: "300" },
+                { name: "twitter:site", content: "@FlashFootballFR" },
+                { name: "twitter:card", content: "summary_large_image" },
+                {
+                    hid: "twitter:title",
+                    name: "twitter:title",
+                    content: this.article.title,
+                },
+                {
+                    hid: "twitter:image",
+                    name: "twitter:image",
+                    content: this.article.img,
+                },
             ]
         }
     }
