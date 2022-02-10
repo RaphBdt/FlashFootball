@@ -3,7 +3,7 @@ id: 10
 title: '25 transferts dont vous n''avez pas entendu parler '
 date: 06/02/2022
 img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReySRsuQIqjuQc67KFYAoKpOHvxw3wUzigkA&usqp=CAU
-category: Scouting
+category: Scooting
 tag: Mercato
 auteur: Sam Troccaz
 
