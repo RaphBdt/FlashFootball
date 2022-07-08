@@ -3,7 +3,7 @@ title: Ligue 1 - 5 jeunes à suivre cette saison
 id: "1"
 date: 29/08/21
 img: https://www.ligue1.fr/-/media/Project/LFP/Ligue1/Images/Articles-Assests/2019/10/29/Ligue1-hexagoal-desktop.jpg
-category: Scooting
+category: Scouting
 tag: Ligue 1
 auteur: Samuel Troccaz
 

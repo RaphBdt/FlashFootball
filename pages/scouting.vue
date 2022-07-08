@@ -1,6 +1,6 @@
 <template>
   <b-container class="first-content">
-    <h1>Scooting</h1>
+    <h1>Scouting</h1>
     <b-row class="articles">
       <b-col lg="3" v-for="(article, idx) in articles" :key="idx">
         <div class="article">
@@ -25,7 +25,7 @@ export default {
   async asyncData({ $content, params }) {
     const articles = await $content('actu', params.slug)
       .only(['title', 'img', 'slug', 'tag', 'date', 'category'])
-      .where({ category: 'Scooting' })
+      .where({ category: 'Scouting' })
       .sortBy('id', 'desc')
       .limit(8)
       .fetch();

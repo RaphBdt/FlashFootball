@@ -3,7 +3,7 @@ id: 5
 title: Andreas Schjelderup, le joyau scandinave
 date: 17/09/2021
 img: https://tmssl.akamaized.net/images/foto/normal/andreas-schjelderup-1625075027-66427.jpg?lm=1625075115
-category: Scooting
+category: Scouting
 tag: Superligaen
 auteur: Samuel Troccaz
 
