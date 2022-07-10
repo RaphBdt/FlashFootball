@@ -18,7 +18,7 @@ Bazdar pourrait donc en profiter comme l'un des meilleurs buteurs de sa généra
 
 Le club serbe a même refusé de signer un autre attaquant lors de cette fenêtre des transferts. Le pari Bazdar est lancé.
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/6QYAclc2pZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6QYAclc2pZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 2. Bojan Kovacevic (Cukaricki)
 
@@ -38,7 +38,7 @@ Absent lors de la présaison, il aura dès ce weekend une idée plus claire de s
 
 Kabic est un ailier très fin, capitaine de l'équipe U17 et capable de jouer dans l'axe et sur un côté.
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/YiJc02oXZcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YiJc02oXZcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 4. Stefan Mitrovic (Radnicki)
 
@@ -48,7 +48,7 @@ Il a inscrit la saison passée 11 buts en tant que milieu offensif. Le tout en 4
 
 Stefan Mitrovic est l'espoir principal de son équipe et devrait être un élément clé dès dimanche contre le Red Star de Belgrade.
 
-    <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">🔎 FOCUS : Stefan Mitrovic (MOC, 2002, 🇨🇦). <br><br>Stefan né à Krusevac (Yougoslavie, actuelle Serbie 🇷🇸), en 2002, au lendemain de la sanglante guerre des Balkans. <a href="https://t.co/C4xA7y78Ph">pic.twitter.com/C4xA7y78Ph</a></p>&mdash; Hugo (@HugoParleSoccer) <a href="https://twitter.com/HugoParleSoccer/status/1505181854747529220?ref_src=twsrc%5Etfw">March 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">🔎 FOCUS : Stefan Mitrovic (MOC, 2002, 🇨🇦). <br><br>Stefan né à Krusevac (Yougoslavie, actuelle Serbie 🇷🇸), en 2002, au lendemain de la sanglante guerre des Balkans. <a href="https://t.co/C4xA7y78Ph">pic.twitter.com/C4xA7y78Ph</a></p>&mdash; Hugo (@HugoParleSoccer) <a href="https://twitter.com/HugoParleSoccer/status/1505181854747529220?ref_src=twsrc%5Etfw">March 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 5. Djordje Gordic (Mladost)
 
