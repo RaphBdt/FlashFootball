@@ -18,8 +18,6 @@ L’an passé le défenseur s’est fait remarquer pour ses qualités athlétiqu
 
 Sa puissance compense même ses défauts notamment balle au pied où le joueur a une importante marge de progression surtout qu’il affiche une volonté de relancer proprement si possible.
 
-<a title="Biser Todorov, CC BY 4.0 &lt;https://creativecommons.org/licenses/by/4.0&gt;, via Wikimedia Commons" href=""><img width="256" alt="José Córdoba" src=""></a>
-
 ### Bradley de Nooijer (CSKA Sofia):
 
 L’ancien international U17 néerlandais arrive au CSKA Sofia pour se relancer après un passage compliqué au FCV Farul en Roumanie où il a été prêté à plusieur reprises ces dernières saisons.
