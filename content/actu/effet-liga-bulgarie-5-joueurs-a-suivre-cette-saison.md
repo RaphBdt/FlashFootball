@@ -32,13 +32,11 @@ Néanmoins, le joueur de 24 ans doit plus varier son jeu pour être moins prévi
 
 Surement le joueur à suivre cette saison s’il reste à Ludogorets. Le meilleur jeune joueur du championnat l’an dernier (42 matchs pour 7 buts et 5 passes décisives) intéresse plusieurs clubs de ligue 1 selon foot Mercato (Brest, Lille et Nice).
 
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">🚨Dominik Yankov intéresserait fortement le LOSC ! 🇧🇬<br><br>➤ Jeune milieu offensif de 21 ans, Yankov a été sacré meilleur jeune joueur du championnat bulgare en 2021 avec Ludogorets🌟<br><br>➤ Sa valeur est estimée à 2 M€ 💰<br><br>➤ Brest et Nice sont également intéressé. <br><br>(<a href="https://twitter.com/sebnonda?ref_src=twsrc%5Etfw">@sebnonda</a> 🟢🇫🇷) <a href="https://t.co/aXCfMJuQaw">pic.twitter.com/aXCfMJuQaw</a></p>&mdash; Le Vieux Dogue (@LeVieuxDogue) <a href="https://twitter.com/LeVieuxDogue/status/1531227211176591363?ref_src=twsrc%5Etfw">May 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">🚨Dominik Yankov intéresserait fortement le LOSC ! 🇧🇬<br><br>➤ Jeune milieu offensif de 21 ans, Yankov a été sacré meilleur jeune joueur du championnat bulgare en 2021 avec Ludogorets🌟<br><br>➤ Sa valeur est estimée à 2 M€ 💰<br><br>➤ Brest et Nice sont également intéressé. <br><br>(<a href="https://twitter.com/sebnonda?ref_src=twsrc%5Etfw">@sebnonda</a> 🟢🇫🇷) <a href="https://t.co/aXCfMJuQaw">pic.twitter.com/aXCfMJuQaw</a></p>— Le Vieux Dogue (@LeVieuxDogue) <a href="https://twitter.com/LeVieuxDogue/status/1531227211176591363?ref_src=twsrc%5Etfw">May 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Mais la possibilité d’une participation en Champions League poussera peut-être le joueur de 21 ans déjà international avec la Bulgarie a rester au pays. Dominik Yankov est un joueur qui aime se déplacer partout sur le terrain et peut évoluer aussi bien en 10 que sur les ailes.
 
 Très vif balle au pied, il se projette volontiers dans les espaces. Le joueur de Ludogorets est également impliqué dans la transition défensive de son équipe, ses retours agressifs permettent même à son équipe de se procurer des occasions assez franches.
-
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/K2PIhSGCcU0?start=66](https://www.youtube.com/embed/K2PIhSGCcU0?start=66 "https://www.youtube.com/embed/K2PIhSGCcU0?start=66")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Mais comme beaucoup de jeunes joueurs son principal défaut est la finition dans les derniers mètres même si le joueur formé à Sunderland possède une bonne patte. S’il s’améliore dans ce domaine, il deviendra surement un des joueurs les plus dangereux du championnat.
 
@@ -46,7 +44,7 @@ Mais comme beaucoup de jeunes joueurs son principal défaut est la finition dans
 
 Passé par l’équipe réserve du LOSC puis prêté à plusieurs reprises au Portugal sans pour autant convaincre les dirigeants Lillois de l’intégrer à l’équipe première, c’est au Ludogorets que l’international angolais s’est relancé la saison dernière.
 
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">🔴 Show transféré au PFC Ludogorets.</p>&mdash; LOSC (@losclive) <a href="https://twitter.com/losclive/status/1432350958089015303?ref_src=twsrc%5Etfw">August 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">🔴 Show transféré au PFC Ludogorets.</p>— LOSC (@losclive) <a href="https://twitter.com/losclive/status/1432350958089015303?ref_src=twsrc%5Etfw">August 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 En concurrence avec l’ancien joueur de l’AC Ajaccio, Claude Gonçalves et le brésilien Alex Santana, le jeune tentera de s’imposer cette saison au poste de numéro 6.
 
