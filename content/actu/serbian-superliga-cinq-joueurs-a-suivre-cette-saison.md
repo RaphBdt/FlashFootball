@@ -1,6 +1,6 @@
 ---
 id: 10
-title: 'Serbian SuperLiga : Cinq joueurs à suivre cette saison'
+title: 'Serbian SuperLiga : 5 joueurs à suivre cette saison'
 date: '09/07/2022'
 img: https://pbs.twimg.com/media/FON672UXsAQSgrp?format=jpg&name=900x900
 category: Scouting
@@ -17,6 +17,8 @@ Pour le moment, Samed Bazdar est le troisième attaquant de pointe du Partizan B
 Bazdar pourrait donc en profiter comme l'un des meilleurs buteurs de sa génération. L'année passée, le natif de Novi Pazar a inscrit 37 buts en 29 matchs de [Kadetska Liga](https://www.transfermarkt.com/kadetska-liga-srbije/startseite/wettbewerb/SB17https://www.transfermarkt.com/kadetska-liga-srbije/startseite/wettbewerb/SB17), le championnat U17 serbe.
 
 Le club serbe a même refusé de signer un autre attaquant lors de cette fenêtre des transferts. Le pari Bazdar est lancé.
+
+Pour son premier match de la saison, il a même inscrit son premier but chez les grands en 33 minutes de jeu. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6QYAclc2pZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -46,9 +48,9 @@ A 19 ans, Stefan Mitrovic est déjà le joueur de son équipe avec le plus de va
 
 Il a inscrit la saison passée 11 buts en tant que milieu offensif. Le tout en 48 matchs disputés.
 
-Stefan Mitrovic est l'espoir principal de son équipe et devrait être un élément clé dès dimanche contre le Red Star de Belgrade.
+Stefan Mitrovic est l'espoir principal de son équipe et a joué 90 minutes du premier match de la saison contre l'Etoile Rouge de Belgrade. 
 
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">🔎 FOCUS : Stefan Mitrovic (MOC, 2002, 🇨🇦). <br><br>Stefan né à Krusevac (Yougoslavie, actuelle Serbie 🇷🇸), en 2002, au lendemain de la sanglante guerre des Balkans. <a href="https://t.co/C4xA7y78Ph">pic.twitter.com/C4xA7y78Ph</a></p>&mdash; Hugo (@HugoParleSoccer) <a href="https://twitter.com/HugoParleSoccer/status/1505181854747529220?ref_src=twsrc%5Etfw">March 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">🔎 FOCUS : Stefan Mitrovic (MOC, 2002, 🇨🇦). <br><br>Stefan né à Krusevac (Yougoslavie, actuelle Serbie 🇷🇸), en 2002, au lendemain de la sanglante guerre des Balkans. <a href="https://t.co/C4xA7y78Ph">pic.twitter.com/C4xA7y78Ph</a></p>— Hugo (@HugoParleSoccer) <a href="https://twitter.com/HugoParleSoccer/status/1505181854747529220?ref_src=twsrc%5Etfw">March 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 5. Djordje Gordic (Mladost)
 
@@ -56,4 +58,4 @@ Le joueur le plus jeune de cette liste. Djordje Gordic a un profil assez similai
 
 Gordic n'a que 17 ans mais il a déjà 21 matchs en professionnel pour plus de 1600 minutes de jeu la semaine prochaine.
 
-Le serbe est amené à être bien plus exposé cette saison puisqu'il est lui aussi le joueur avec le plus de valeur de son effectif. A son poste, seul Regis Baha peut le concurrencer. Réponse ce soir à domicile contre le Spartak.
+Le serbe est amené à être bien plus exposé cette saison puisqu'il est lui aussi le joueur avec le plus de valeur de son effectif. A son poste, seul Regis Baha peut le concurrencer. Il a déjà été désigné titulaire pour le premier match de la saison contre le Spartak Subotica (1-1) 
