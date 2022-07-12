@@ -12,11 +12,15 @@ auteur: Flavio NORIGA
 
 ### José Córdobà ( Levski Sofia ) :
 
-Ce joueur panaméen culminant à 1,87 mètre a laissé un bon souvenir au Levski Sofia lors de son prêt l’année dernière. Le club bulgare a décidé de débourser 110 000 euros pour conserver le joueur de 21 ans sous contrat à Independiente. José Córdobà quitte donc son club formateur, après avoir été prêté à plusieurs reprises en Europe.
+Ce joueur panaméen culminant à 1,87 mètre a laissé un bon souvenir au Levski Sofia lors de son prêt l’année dernière. Le club bulgare a décidé de débourser 110 000 euros pour conserver le joueur de 21 ans sous contrat à Independiente. [José Córdobà](https://www.transfermarkt.com/jose-cordoba/profil/spieler/698415) quitte donc son club formateur, après avoir été prêté à plusieurs reprises en Europe.
 
-L’an passé le défenseur s’est fait remarquer pour ses qualités athlétiques. Évoluant principalement en défense centrale, José Córdobà est un défenseur très rude qui aime aller au contact des attaquants. L’international panaméen est très solide de la tête, il perd très rarement ses duels aériens ce qui a soulagé ses coéquipiers à plusieurs reprises la saison dernière.
+L’an passé le défenseur s’est fait remarquer pour ses qualités athlétiques. Évoluant principalement en défense centrale, José Córdobà est un défenseur très rude qui aime aller au contact des attaquants. 
+
+L’international panaméen est très solide de la tête, il perd très rarement ses duels aériens ce qui a soulagé ses coéquipiers à plusieurs reprises la saison dernière.
 
 Sa puissance compense même ses défauts notamment balle au pied où le joueur a une importante marge de progression surtout qu’il affiche une volonté de relancer proprement si possible.
+
+Cordoba a joué les 90 minutes du premier match de la saison face au CSKA Sofia, défaite 1-0. 
 
 ### Bradley de Nooijer (CSKA Sofia):
 
@@ -24,7 +28,9 @@ L’ancien international U17 néerlandais arrive au CSKA Sofia pour se relancer 
 
 Bradley de Nooijer est un latéral gauche qui aime aller de l’avant en prenant son couloir. C’est un joueur rapide très vif avec le ballon et qui s’est beaucoup fait remarquer par ses qualités de centreur comme en témoigne ses 6 passes décisives la saison dernière.
 
-Néanmoins, le joueur de 24 ans doit plus varier son jeu pour être moins prévisible. Défensivement, sa rapidité lui permet souvent de faire de très bons retours défensifs qui pourraient surement être évités avec un meilleur placement.
+Néanmoins, le [joueur](https://flash-football.fr/actu/25-transferts-dont-vous-n-avez-pas-entendu-parler) de 24 ans doit plus varier son jeu pour être moins prévisible. Défensivement, sa rapidité lui permet souvent de faire de très bons retours défensifs qui pourraient surement être évités avec un meilleur placement.
+
+De Nooijer était titulaire pour la victoire 3-0 de son équipe contre l'Arda. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BHy-nKps_xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
