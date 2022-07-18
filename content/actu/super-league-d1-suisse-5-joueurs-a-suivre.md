@@ -12,7 +12,7 @@ auteur: Flavio NORIGA
 
 ### Becir Omeragic (FC Zurich) :
 
-<blockquote class="twitter-tweet"><p lang="de" dir="ltr">Seit gestern wieder im Mannschaftstraining - willkommen zurück auf dem Platz, Becir! 💪🏽<a href="[https://twitter.com/hashtag/fcz?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/fcz?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/fcz?src=hash&amp;ref_src=twsrc%5Etfw")">#fcz</a> <a href="[https://twitter.com/hashtag/stadtclub?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/stadtclub?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/stadtclub?src=hash&amp;ref_src=twsrc%5Etfw")">#stadtclub</a> <a href="[https://twitter.com/hashtag/NieUsenandGah?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/NieUsenandGah?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/NieUsenandGah?src=hash&amp;ref_src=twsrc%5Etfw")">#NieUsenandGah</a> <a href="https://t.co/EQrqE4bQ4A">pic.twitter.com/EQrqE4bQ4A</a></p>&mdash; FC Zürich (@fc_zuerich) <a href="[https://twitter.com/fc_zuerich/status/1545384693889122304?ref_src=twsrc%5Etfw](https://twitter.com/fc_zuerich/status/1545384693889122304?ref_src=twsrc%5Etfw "https://twitter.com/fc_zuerich/status/1545384693889122304?ref_src=twsrc%5Etfw")">July 8, 2022</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="de" dir="ltr">Seit gestern wieder im Mannschaftstraining - willkommen zurück auf dem Platz, Becir! 💪🏽<a href="https://twitter.com/hashtag/fcz?src=hash&ref_src=twsrc%5Etfw">#fcz</a> <a href="https://twitter.com/hashtag/stadtclub?src=hash&ref_src=twsrc%5Etfw">#stadtclub</a> <a href="https://twitter.com/hashtag/NieUsenandGah?src=hash&ref_src=twsrc%5Etfw">#NieUsenandGah</a> <a href="https://t.co/EQrqE4bQ4A">pic.twitter.com/EQrqE4bQ4A</a></p>— FC Zürich (@fc_zuerich) <a href="https://twitter.com/fc_zuerich/status/1545384693889122304?ref_src=twsrc%5Etfw">July 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Une bonne saison 2021/22 entachée par une blessure en fin de championnat qui l'a empêché de vivre le titre de champion de suisse pleinement. Becir Omeragic sera revanchard cette saison avec son club, le FC Zurich.
 
@@ -20,12 +20,11 @@ Et l'international suisse a des atouts à faire valoir. Ce jeune défenseur cent
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Es1axU1Bk7g?start=22" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- De plus, il est techniquement très à l'aise pour un défenseur. Il aime porter le ballon pour amener le décalage quitte à prendre beaucoup de risque, qui s'avère souvent payant. Sur une prise de bale il est capable d'éliminer plusieurs joueurs. c'est un joueur précieux pour une équipe qui veut sortir proprement le ballon.
+De plus, il est techniquement très à l'aise pour un défenseur. Il aime porter le ballon pour amener le décalage quitte à prendre beaucoup de risque, qui s'avère souvent payant. Sur une prise de bale il est capable d'éliminer plusieurs joueurs. c'est un joueur précieux pour une équipe qui veut sortir proprement le ballon.
 
 ### Fabian Rieder (Young boys berne):
 
-  
-Après une première saison au niveau professionnel intéressante avec 30 matchs joués, Fabian Rieder devra confirmer lors de cet exercice 2022/23. 
+Après une première saison au niveau professionnel intéressante avec 30 matchs joués, Fabian Rieder devra confirmer lors de cet exercice 2022/23.
 
 Le joueur des Young Boys Berne est un milieu axial très bon dans les transition offensives et défensives, très présent au milieu de terrain, particulièrement sur les seconds ballons, il récupère énormément des ballon avec hargne et fait beaucoup d'effort pour le collectif.
 
@@ -45,12 +44,11 @@ Si la relance n'est pas sa meilleure qualité nul doute que sa volonté de jouer
 
 ### Kaly Sène (FC Bale):
 
-  
-Après deux saisons où il a été prêté à Nicosie et à Grasshoppers (où il marque 10 buts et livré 4 passes décisives), Kaly Sène (21 ans) va enfin avoir sa chance avec son club le FC Bale. 
+Après deux saisons où il a été prêté à Nicosie et à Grasshoppers (où il marque 10 buts et livré 4 passes décisives), Kaly Sène (21 ans) va enfin avoir sa chance avec son club le FC Bale.
 
 C'est un attaquant puissant et rapide qui amène beaucoup de profondeur. S'il doit s'améliorer dans le un contre un le sénégalais est redoutable lorsqu'il joue en une ou deux touches balle dans les 25 derniers mètres.
 
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Mamadou Kaly Sène de la Juventus, seul sénégalais parmi les 100 sélectionnés pour le <a href="[https://twitter.com/hashtag/GoldenBoy2020?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/GoldenBoy2020?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/GoldenBoy2020?src=hash&amp;ref_src=twsrc%5Etfw")">#GoldenBoy2020</a> <a href="https://t.co/RJwr8yh6qs">https://t.co/RJwr8yh6qs</a> <a href="https://t.co/xdbGPsa1yX">pic.twitter.com/xdbGPsa1yX</a></p>&mdash; 🇷🇺 Максим 🇸🇳 (@RealMaks07001) <a href="[https://twitter.com/RealMaks07001/status/1272583551746289664?ref_src=twsrc%5Etfw](https://twitter.com/RealMaks07001/status/1272583551746289664?ref_src=twsrc%5Etfw "https://twitter.com/RealMaks07001/status/1272583551746289664?ref_src=twsrc%5Etfw")">June 15, 2020</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Mamadou Kaly Sène de la Juventus, seul sénégalais parmi les 100 sélectionnés pour le <a href="https://twitter.com/hashtag/GoldenBoy2020?src=hash&ref_src=twsrc%5Etfw">#GoldenBoy2020</a> <a href="https://t.co/RJwr8yh6qs">https://t.co/RJwr8yh6qs</a> <a href="https://t.co/xdbGPsa1yX">pic.twitter.com/xdbGPsa1yX</a></p>— 🇷🇺 Максим 🇸🇳 (@RealMaks07001) <a href="https://twitter.com/RealMaks07001/status/1272583551746289664?ref_src=twsrc%5Etfw">June 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 L'attaquant formé à la Juventus est bon devant le but et sait aussi faire marquer ses coéquipiers.
 
@@ -60,12 +58,12 @@ L'attaquant formé à la Juventus est bon devant le but et sait aussi faire marq
 
 Le joueur prêté par les wolves s'est fait remarquer lors de sa première saison avec Grasshoppers. Ce qui poussé le club suisse a prolongé son prêt d'un an.
 
-<blockquote class="twitter-tweet"><p lang="de" dir="ltr">Guess who&#39;s back? 🔵⚪<br><br>📝 Bendegúz Bolla kehrt für eine weitere Saison nach Zürich zurück!<a href="[https://twitter.com/hashtag/gc?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/gc?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/gc?src=hash&amp;ref_src=twsrc%5Etfw")">#gc</a> <a href="[https://twitter.com/hashtag/z%C3%BCrich?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/z%C3%BCrich?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/z%C3%BCrich?src=hash&amp;ref_src=twsrc%5Etfw")">#zürich</a> <a href="[http_://twitter.com/hashtag/traditionsclub?src=hash&amp;ref_src=twsrc%5Etfw_](https://twitter.com/hashtag/traditionsclub?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/traditionsclub?src=hash&amp;ref_src=twsrc%5Etfw")_">#traditionsclub</a></p>&mdash; Grasshopper Club Zürich (@gc_zuerich) <a href="_[_https://twitter.com/gc_zuerich/status/1541360855912169472?ref_src=twsrc%5Etfw_](https://twitter.com/gc_zuerich/status/1541360855912169472?ref_src=twsrc%5Etfw "https://twitter.com/gc_zuerich/status/1541360855912169472?ref_src=twsrc%5Etfw")_">June 27, 2022</a></blockquote> <script async src="_[_https://platform.twitter.com/widgets.js_](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")_" charset="utf-8"></script>_
+<blockquote class="twitter-tweet"><p lang="de" dir="ltr">Guess who's back? 🔵⚪<br><br>📝 Bendegúz Bolla kehrt für eine weitere Saison nach Zürich zurück!<a href="https://twitter.com/hashtag/gc?src=hash&ref_src=twsrc%5Etfw">#gc</a> <a href="https://twitter.com/hashtag/z%C3%BCrich?src=hash&ref_src=twsrc%5Etfw">#zürich</a> <a href="http_://twitter.com/hashtag/traditionsclub?src=hash&ref_src=twsrc%5Etfw__">#traditionsclub</a></p>— Grasshopper Club Zürich (@gc_zuerich) <a href="https://twitter.com/gc_zuerich/status/1541360855912169472?ref_src=twsrc%5Etfw">June 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>_
 
-Ce latéral offensif qui marque et sait faire marquer les autres ( 4 buts et Trois passes décisives) se projète beaucoup vers l'avant en variant énormément ses appels. Il peut déborder où rentrer intérieur pour demander entre les lignes. 
+Ce latéral offensif qui marque et sait faire marquer les autres ( 4 buts et Trois passes décisives) se projète beaucoup vers l'avant en variant énormément ses appels. Il peut déborder où rentrer intérieur pour demander entre les lignes.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZEMB9GMTtoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-L'international hongrois est très vif balle au pied ce qui lui permet d'éliminer ses adversaires. C'est un très bon passeur notamment lorsqu'il déborde pour centrer pied droit 
+L'international hongrois est très vif balle au pied ce qui lui permet d'éliminer ses adversaires. C'est un très bon passeur notamment lorsqu'il déborde pour centrer pied droit
 
 .
