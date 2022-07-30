@@ -2,7 +2,7 @@
 id: 16
 title: 'Ligue 2 : 5 joueurs à suivre '
 date: 30/07/22
-img: https://commons.wikimedia.org/wiki/File:Ligue_2_logo.svg
+img: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ligue_2_logo.svg/522px-Ligue_2_logo.svg.png?20210823000246
 category: scouting
 tag: ''
 auteur: Flavio NORIGA
