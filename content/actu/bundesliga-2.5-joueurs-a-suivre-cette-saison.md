@@ -32,7 +32,7 @@ Sa vitesse et sa qualité de centre pourrait être l'une des clés de la remont�
 
 Il a récemment été sélectionné avec l'équipe nationale des USA avec laquelle il a joué 7 matchs.
 
-<blockquote class="twitter-tweet"><plang="fr" dir="ltr">L'Arminia Bielefeld reléguée en 2.Bundesliga, que quelqu'un aille sortir de là George Bello 🇺🇸, latéral gauche de 20 ans arrivé d'Atlanta cet hiver. C'était l'un des plus performants en MLS et le futur de Ia selection à son poste, il doit rebondir ailleurs. <a href="https://t.co/CIZBeKkX9C">pic.twitter.com/CIZBeKkX9C</a></p>— Kevin Nieto (@Fleck_Scout) <a href="https://twitter.com/Fleck_Scout/status/1525500063983849473?ref_src=twsrc%5Etfw">May 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><plang="fr" dir="ltr">L'Arminia Bielefeld reléguée en 2.Bundesliga, que quelqu'un aille sortir de là George Bello 🇺🇸, latéral gauche de 20 ans arrivé d'Atlanta cet hiver. C'était l'un des plus performants en MLS et le futur de Ia selection à son poste, il doit rebondir ailleurs. <a href="https://t.co/CIZBeKkX9C">pic.twitter.com/CIZBeKkX9C</a></p>— Kevin Nieto (@Fleck_Scout) <a href="https://twitter.com/Fleck_Scout/status/1525500063983849473?ref_src=twsrc%5Etfw">May 14, 2022</a></blockquote>
 
 ### 3. Burak Ince (Bielefeld)
 
