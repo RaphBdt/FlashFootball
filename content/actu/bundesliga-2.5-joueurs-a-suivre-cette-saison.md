@@ -20,7 +20,7 @@ Le joueur de 20 ans peut également jouer sur le côté droit en cas de fin de m
 
 Vuskovic était titulaire le premier match de la saison d'Hambourg ce weekend contre Braunschweig. Une victoire 2-0 et un clean sheet pour bien commencer l'année.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/YG_WiPoI-8E](https://www.youtube.com/embed/YG_WiPoI-8E "https://www.youtube.com/embed/YG_WiPoI-8E")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YG_WiPoI-8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 2. George Bello (Bielefeld)
 
@@ -50,7 +50,7 @@ Le suédois a inscrit deux buts en Allsvenskan dans ses 11 premiers matchs en pr
 
 Vilhelmsson est en concurrence avec plusieurs autres attaquants cette saison dont Philipp Tietz ou Tobias Kempe. Heureusement, son coach utilise un système à deux pointes qui lui a permis de jouer 20 minutes lors du premier match de la saison contre Regensburg (défaite 2-0).
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/d_mn-QcBN0E](https://www.youtube.com/embed/d_mn-QcBN0E "https://www.youtube.com/embed/d_mn-QcBN0E")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d_mn-QcBN0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 5. Efe-Kaan Sihlaroglu (Karlsruher)
 
