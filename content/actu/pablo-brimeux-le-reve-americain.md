@@ -2,9 +2,9 @@
 id: 18
 title: 'Pablo Brimeux :  le rêve américain'
 date: 05/12/2022
-img: https://www.google.com/url?sa=i&url=https%3A%2F%2Fgwusports.com%2Fsports%2Fmens-soccer%2Froster%2Fpablo-brimeux%2F8933&psig=AOvVaw0vE2DqnVqqSi-QZEdzedBF&ust=1670356979391000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPi0nuWi4_sCFQAAAAAdAAAAABAE
+img: https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/gwu.sidearmsports.com/images/2022/9/16/PabloBrimeux-HPU_ghPNZ.jpg
 category: Scouting
-tag: NCAA, Pablo Brimeux, Football, France
+tag: NCAA
 auteur: Tom Ornaque
 
 ---
