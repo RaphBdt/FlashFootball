@@ -2,7 +2,7 @@
 id: 18
 title: 'Pablo Brimeux :  le rêve américain'
 date: 05/12/2022
-img: https://images.app.goo.gl/XRBuqFCmv8erBPEr5
+img: https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/gwu.sidearmsports.com/images/2022/9/16/PabloBrimeux-HPU_ghPNZ.jpg
 category: Scouting
 tag: foot
 auteur: Tom Ornaque
